@@ -4,4 +4,4 @@ Git is free software distrbuted under the GPL.
 Creating a new branch is quick & simple.
 dev 分支修改
 
-git stash 存储未完成的分支工作状态
+git stash 存储未完成的分支工作状态（TEST）
