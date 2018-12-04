@@ -3,3 +3,5 @@ Git is free software distrbuted under the GPL.
 关联了远程仓库
 Creating a new branch is quick & simple.
 dev 分支修改
+
+Git is a free software
